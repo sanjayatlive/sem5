@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/media/sanjay/New Volume/Development/sem 5/Client Server Systems/#1/Lab1/Diamond/Diamond.csproj": {}
+  },
+  "projects": {
+    "/media/sanjay/New Volume/Development/sem 5/Client Server Systems/#1/Lab1/Diamond/Diamond.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/media/sanjay/New Volume/Development/sem 5/Client Server Systems/#1/Lab1/Diamond/Diamond.csproj",
+        "projectName": "Diamond",
+        "projectPath": "/media/sanjay/New Volume/Development/sem 5/Client Server Systems/#1/Lab1/Diamond/Diamond.csproj",
+        "packagesPath": "/home/sanjay/.nuget/packages/",
+        "outputPath": "/media/sanjay/New Volume/Development/sem 5/Client Server Systems/#1/Lab1/Diamond/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/sanjay/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

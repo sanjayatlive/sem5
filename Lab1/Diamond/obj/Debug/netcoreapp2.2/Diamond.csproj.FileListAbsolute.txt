@@ -1,0 +1,4 @@
+/media/sanjay/New Volume/Development/sem 5/Client Server Systems/#1/Lab1/Diamond/Diamond/obj/Debug/netcoreapp2.2/Diamond.csprojAssemblyReference.cache
+/media/sanjay/New Volume/Development/sem 5/Client Server Systems/#1/Lab1/Diamond/Diamond/obj/Debug/netcoreapp2.2/Diamond.csproj.CoreCompileInputs.cache
+/media/sanjay/New Volume/Development/sem 5/Client Server Systems/#1/Lab1/Diamond/Diamond/obj/Debug/netcoreapp2.2/Diamond.AssemblyInfoInputs.cache
+/media/sanjay/New Volume/Development/sem 5/Client Server Systems/#1/Lab1/Diamond/Diamond/obj/Debug/netcoreapp2.2/Diamond.AssemblyInfo.cs
